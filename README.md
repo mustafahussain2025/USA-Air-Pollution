@@ -2,7 +2,7 @@
 
 This Tableau dashboard provides comprehensive insights into air pollution across the United States, empowering environmental agencies, policymakers, and public health officials to make informed decisions and manage air quality effectively. Leveraging data visualization capabilities, the dashboard offers intuitive analytics for monitoring, analyzing, and optimizing air pollution metrics.
 
-# Dashboard link: https://app.powerbi.com/groups/me/list?experience=power-bi&subfolderId=460
+# Dashboard link:https://app.powerbi.com/groups/me/reports/caede6a1-89fc-44f3-834c-5580ba352ad8/ReportSection92119ae1682c729350c0?experience=power-bi
 
 # Key Features:
 
